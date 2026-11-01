@@ -1,0 +1,12 @@
+category,item,contracted_or_budgeted,actual,variance,document_reference,review_status
+Revenue,Ticket revenue,0,0,0,Box office report,Pending
+Revenue,Food and beverage,0,0,0,POS report,Pending
+Revenue,Facility fees,0,0,0,Agreement,Pending
+Costs,Artist guarantee,0,0,0,Agreement,Pending
+Costs,Production labor,0,0,0,Approved roster,Pending
+Costs,Security,0,0,0,Staffing invoice,Pending
+Costs,Equipment rental,0,0,0,Vendor invoice,Pending
+Costs,Hospitality,0,0,0,Receipts,Pending
+Result,Net result,0,0,0,Calculated,Pending
+Review,Preparer,, , ,Name and date,Pending
+Review,Reviewer,, , ,Name and date,Pending
